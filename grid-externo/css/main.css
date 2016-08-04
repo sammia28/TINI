@@ -1,0 +1,74 @@
+.encabezado{
+	background: #FCCE09;
+	height: 650px;
+}
+
+.container{
+	padding: 49px;
+}
+
+.btn-sumate{
+	padding: 7px 21px;
+    background: #FCBA43;
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+    display: inline-block;
+}
+
+.text-right{
+	text-align: right;
+}
+
+a{
+	font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    color: white;
+    padding: 23px;
+}
+
+.cuadro{
+	margin-bottom: 21px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.box-text{
+	margin-top: 21%;
+    
+    color: white;
+}
+
+.text-left{
+	text-align: left;
+}
+
+.cuerpo{
+	background: #EAEAE9;
+}
+
+.bloque1{
+	background: white;
+    padding: 30px;
+    margin: 15px;
+}
+.parrafo{
+	color: #898D8F;
+    margin-bottom: 15px;
+}
+.mt-70 {
+    margin-top: 60px;
+}
+.pie {
+    background-color: #323230;
+    height: 50px;
+}
+
+.parte-baja{
+	color: white;
+    padding: 20px;
+    margin-left: 170px;
+}
